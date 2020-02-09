@@ -11,6 +11,6 @@ The steps includes:
 5. Obtain the model weights. 
 6. Test the model.  
 
-(https://user-images.githubusercontent.com/10113553/55483057-71968c00-5643-11e9-8f72-c013e9a40dc7.jpg)
 
+For More Information, you can follow this tutorial
 https://medium.com/@today.rafi/train-your-own-tiny-yolo-v3-on-google-colaboratory-with-the-custom-dataset-2e35db02bf8f
