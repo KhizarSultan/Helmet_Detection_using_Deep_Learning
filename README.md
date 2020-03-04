@@ -11,7 +11,7 @@ The steps includes:
 5. Obtain the model weights. 
 6. Test the model
 
-#### download Prepared data set from the following link:)
+#### download Prepared data set from the following link:
 https://drive.google.com/open?id=1g3u7CIwF1SPflTN8GmLwJIdLjfdhav-x
 
 For More Information, you can follow this tutorial
