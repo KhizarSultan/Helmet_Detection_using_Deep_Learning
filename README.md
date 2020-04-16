@@ -10,7 +10,6 @@ The steps includes:
 4. Train the dataset. 
 5. Obtain the model weights. 
 6. Test the model
-
 #### download Prepared data set from the following link:
 https://drive.google.com/open?id=1g3u7CIwF1SPflTN8GmLwJIdLjfdhav-x
 
